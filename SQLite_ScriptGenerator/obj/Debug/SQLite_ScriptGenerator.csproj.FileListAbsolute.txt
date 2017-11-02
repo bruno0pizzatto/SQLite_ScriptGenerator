@@ -1,0 +1,20 @@
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\SQLite_ScriptGenerator.exe.config
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\SQLite_ScriptGenerator.exe
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\SQLite_ScriptGenerator.pdb
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\EntityFramework.dll
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\System.Data.SQLite.dll
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\EntityFramework.xml
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\System.Data.SQLite.xml
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.csprojResolveAssemblyReference.cache
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.Properties.Resources.resources
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.csproj.GenerateResource.Cache
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.exe
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.pdb
+c:\users\bruno.pizzatto\documents\visual studio 2013\Projects\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.FrmGenerator.resources
+C:\Users\bruno.pizzatto\Documents\wmgo\SQLite_ScriptGenerator\SQLite_ScriptGenerator\bin\Debug\SQLite_ScriptGenerator.exe.config
+C:\Users\bruno.pizzatto\Documents\wmgo\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.exe
+C:\Users\bruno.pizzatto\Documents\wmgo\SQLite_ScriptGenerator\SQLite_ScriptGenerator\obj\Debug\SQLite_ScriptGenerator.pdb

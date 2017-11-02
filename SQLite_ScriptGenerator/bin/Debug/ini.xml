@@ -1,0 +1,8 @@
+<ini>
+  <options>
+    <path>C:\Users\bruno.pizzatto\Desktop\CE50</path>
+    <database>C:\Users\bruno.pizzatto\Desktop\setups\ce50.db3</database>
+    <table>True</table>
+    <view>True</view>
+  </options>
+</ini>
